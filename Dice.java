@@ -42,3 +42,6 @@ public class Dice {
         return value;
     }   
 }
+// What are these for, James?
+//   int one,two,three,four,five,six;
+//    int value,newValue,total,newBounces,Bounces;
